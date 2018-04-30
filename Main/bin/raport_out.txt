@@ -1,0 +1,14 @@
+Zembaty2 Maciej 110 9 11 , czas pracy : 2
+Kowalska3 Irena 120 10 13 , czas pracy : 3
+Doniak6 Zenon 130 8 14 , czas pracy : 6
+Doniak6 Zenon 130 8 14 , czas pracy : 6
+Nowak8 Ewa 120 10 18 , czas pracy : 8
+Nowak8 Ewa 120 10 18 , czas pracy : 8
+Kowalski9 Jan 110 5 14 , czas pracy : 9
+Kowalski9 Jan 110 5 14 , czas pracy : 9
+Bury10 Jan 130 8 18 , czas pracy : 10
+Kos11 Anna 140 8 19 , czas pracy : 11
+Kos11 Anna 140 8 19 , czas pracy : 11
+Dreptak17 Jan 150 4 21 , czas pracy : 17
+Dreptak17 Jan 150 4 21 , czas pracy : 17
+Dreptak17 Jan46 150 4 50 , czas pracy : 46

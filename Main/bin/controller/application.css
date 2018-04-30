@@ -1,0 +1,13 @@
+.button-oval {
+  -fx-border-width: 3px;
+  -fx-border-color: #000000;
+  -fx-border-radius: 20;
+  -fx-background-color: linear-gradient(#ffffff 0%, #cccccc 100%);
+  -fx-background-radius: 10;
+  -fx-padding: 5 10;
+}
+
+
+.background {
+	  -fx-background-color: #48D1CC    ;
+}
